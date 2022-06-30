@@ -15,3 +15,6 @@ Trabalho de conclusão de curso "TCC" - Senai CTM - Turma TDS05.
 ![f](https://user-images.githubusercontent.com/84077567/176570200-8b5a8e72-66a0-4211-a0ce-2bb774e046d5.png)
 <br /><br /><b>Tela Produtos Cadastrados</b><br />
 ![g](https://user-images.githubusercontent.com/84077567/176570201-ff7e5a90-9b88-42da-847b-f3fbdc9208e7.png)
+
+
+<b>Hoje sou uma pessoa mais capaz e realizada, mas não vou esquecer de quem esteve ao meu lado. Agradecimentos aos meus professores Kleber, Emerson e Carlos!</b>
