@@ -1,7 +1,7 @@
-# tccconclus-o
+# tccconcluído
 Trabalho de conclusão de curso "TCC" - Senai CTM - Turma TDS05.
 
-<b>Tela Principal</b>
+<b>Tela Principal</b><br>
 ![a](https://user-images.githubusercontent.com/84077567/176570163-d479a548-7c8c-4452-bb8f-5d191a837584.png)
 <b>Tela Produtos</b>
 ![b](https://user-images.githubusercontent.com/84077567/176570168-82f93544-eef4-40a2-9889-35ce9c4d304c.png)
