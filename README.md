@@ -17,4 +17,4 @@ Trabalho de conclusão de curso "TCC" - Senai CTM - Turma TDS05.
 ![g](https://user-images.githubusercontent.com/84077567/176570201-ff7e5a90-9b88-42da-847b-f3fbdc9208e7.png)
 
 
-</>Agradecimentos:</><b>Hoje sou uma pessoa mais capaz e realizada, mas não vou esquecer de quem esteve ao meu lado. Agradecimentos aos meus professores Kleber, Emerson e Carlos!</b>
+<b>Agradecimentos:</b><b>Hoje sou uma pessoa mais capaz e realizada, mas não vou esquecer de quem esteve ao meu lado. Agradecimentos aos meus professores Kleber, Emerson e Carlos!</b>
